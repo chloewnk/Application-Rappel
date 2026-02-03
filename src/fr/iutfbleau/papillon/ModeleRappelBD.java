@@ -16,8 +16,8 @@ import javax.swing.JOptionPane;
 public class ModeleRappelBD {
 
     private static final String URL = "jdbc:mariadb://dwarves.iut-fbleau.fr/wiencek";
-    private static final String USER = "wiencek";
-    private static final String MDP = "wiencek1234";
+    private static final String USER = " ";
+    private static final String MDP = " ";
 
     /**
      * Constructeur par défaut
