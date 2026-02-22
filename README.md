@@ -49,3 +49,7 @@ Le dossier **doc/** : tous les fichiers de la javadoc
 Le dossier **documentation/** : le rapport
 
 Le dossier **build/** : les fichiers compilés avec avoir fait make.
+
+
+
+Note finale : 15.5/20
